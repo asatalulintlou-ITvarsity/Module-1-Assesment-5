@@ -1,0 +1,56 @@
+.gallery img{
+        width: 100%;
+ }
+ body {
+	font-family: Arial, Helvetica, sans-serif;
+}
+
+
+h2 {
+	background-color: cornflowerblue;
+	padding: 30px;
+	text-align: center;
+	font-size: 35px;
+	color: white;
+}
+ 
+ h4 {
+ 	background-color: cornflowerblue;
+ 	padding: 30px;
+	text-align: center;
+    	color: white;
+    	font-size: 20px;
+}
+
+
+#menu{
+      width:100%;
+      height:40px;
+      background-color: cornflowerblue;
+      padding-top: 12px;
+}
+
+#menu a{
+      color:#ffffff;
+      font-family: Helvetica, sans-serif;
+      font-size: 18px;
+      text-decoration:none;
+      font-weight: 800px;
+      
+      padding-left: 20px;
+      padding-right: 20px;
+}
+
+#menu a:hover{
+       color: #5077bd;
+}
+
+
+button[type=button] {
+  background-color: cornflowerblue;
+  color: white;
+  padding: 12px 20px;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+}
